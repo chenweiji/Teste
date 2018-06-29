@@ -7,6 +7,7 @@ package com.motor.teste.AAA;
 public class BB {
     public static void main(String[] args) {
         int i =3;
+        int e =0;
 
     }
 }
