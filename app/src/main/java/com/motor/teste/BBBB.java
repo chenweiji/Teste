@@ -55,6 +55,7 @@ public class BBBB  extends Activity{
         rl.addView(bt,Params);
 
         setContentView(rl);
+        int aaa= 1;
     }
 
     public final void initUI(){
